@@ -1,0 +1,17 @@
+.ipynb_checkpoints/
+.idea/
+builddir
+
+bin
+build.log
+*.zip
+
+*.DS_Store
+.vscode
+.history
+
+examples/*/data*
+examples/*/output_*
+
+docs/build/
+gh_key.sh

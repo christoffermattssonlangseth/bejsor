@@ -1,0 +1,19 @@
+name = "baysor"
+
+[install]
+completion = true
+quiet = false
+optimize = 2
+
+[sysimg]
+
+[sysimg.precompile]
+execution_file = ["deps/precompile.jl"]
+
+[application]
+incremental = false
+filter_stdlibs = false
+path = "./bin"
+
+[application.precompile]
+execution_file = ["deps/precompile.jl"]

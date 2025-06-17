@@ -1,0 +1,6 @@
+[data]
+min_molecules_per_gene = 50
+min_molecules_per_cell = 30
+
+[plotting]
+gene_composition_neigborhood = 50

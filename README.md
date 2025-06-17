@@ -2,6 +2,7 @@
 <p align="center">
   <img src="assets/bejsor_logo.png" alt="Bejsor logo" width="300"/>
 </p>
+
 ⚠️ **Disclaimer:** This is *not* the official Baysor repository. This is a modified fork, humorously named **Bejsor**, which includes a **stupid workaround** to reduce excessive RAM usage when running Baysor on high-transcript-count datasets (e.g., Xenium 5K+ panels).
 
 It is meant for **experimental use only** and should not be considered a reliable alternative to the [official Baysor repository](https://github.com/kharchenkolab/Baysor). Use at your own risk.

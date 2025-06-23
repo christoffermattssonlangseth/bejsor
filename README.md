@@ -40,7 +40,7 @@ If you're looking for a maintained and production-ready tool for segmentation, y
 Clone and use locally:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/bejsor.git
+git clone https://github.com/christoffermattssonlangseth/bejsor.git
 cd bejsor
 julia --project=. -e 'using Pkg; Pkg.instantiate(); Pkg.build()'
 
